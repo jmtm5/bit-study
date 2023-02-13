@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main()
 {
-	int a=11;
+	int a=10;
 	int *p=&a;
 	//p=NULL;
 	
